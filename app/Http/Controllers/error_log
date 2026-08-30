@@ -1,0 +1,72 @@
+[19-Feb-2026 14:02:56 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php on line 19
+[21-Feb-2026 05:29:18 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php on line 19
+[22-Feb-2026 01:48:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php on line 19
+[23-Feb-2026 22:20:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php on line 19
+[25-Feb-2026 18:30:53 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php on line 19
+[01-Mar-2026 18:51:14 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php on line 19
+[01-Mar-2026 20:30:49 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php on line 19
+[05-Mar-2026 09:29:20 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php on line 19
+[07-Mar-2026 00:29:54 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php on line 19
+[07-Mar-2026 02:22:14 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php on line 19
+[08-Mar-2026 00:55:06 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php on line 19
+[09-Mar-2026 06:00:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php on line 19
+[15-Mar-2026 09:35:35 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php on line 19
+[15-Mar-2026 10:15:58 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php on line 19
+[15-Mar-2026 10:27:45 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php on line 19
+[17-Mar-2026 00:04:18 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php on line 19
+[18-Mar-2026 22:10:38 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php on line 19
+[26-Mar-2026 14:00:49 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/fansfollow/public_html/app/Http/Controllers/StripeController.php on line 19

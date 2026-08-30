@@ -1,0 +1,24 @@
+{
+  "name": "FansFollow.me",
+  "short_name": "FansFollow",
+  "description": "Global fitness & martial arts creator platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0f1a",
+  "theme_color": "#f97316",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/fans-foloow-me-logo-final-file--png-version-480.png",
+      "sizes": "480x480",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/fans-foloow-me-logo-final-file--png-version-960.png",
+      "sizes": "960x960",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

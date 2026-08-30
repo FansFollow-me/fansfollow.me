@@ -1,0 +1,8 @@
+[03-Mar-2026 09:24:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/fansfollow/public_html/routes/web.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/fansfollow/public_html/routes/web.php on line 65
+[01-Jul-2026 11:23:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/fansfollow/public_html/routes/api.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/fansfollow/public_html/routes/api.php on line 18
